@@ -43,7 +43,7 @@ Skills: NodeJs / Blockchain / JS / HTML / CSS/  / AWS / React / Web3
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbcse&show_icons=true&locale=en&layout=compact" alt="mbcse" /></p> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbcse&show_icons=true&locale=en" alt="mbcse" /></p>
 
-<p"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbcse&" alt="mbcse" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbcse&" alt="mbcse" /></p>
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mbcse)  
