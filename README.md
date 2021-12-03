@@ -21,6 +21,11 @@ Skills: NodeJs / Blockchain / JS / HTML / CSS/  / AWS / React / Web3
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain + AI, Decentralised Artificial Intelligence: The start of new Era](https://mbcse.medium.com/blockchain-ai-the-start-of-new-era-fee63663eb5c?source=rss-b559b68475f6------2)
+- [Documenting things, Writing example and the GIT-Week 9 &amp; 10, the Ending of GSoC’21.](https://medium.com/leopards-lab/documenting-things-writing-example-and-the-git-week-9-and-10-the-ending-of-gsoc21-cf3b4127d042?source=rss-b559b68475f6------2)
+- [Making a SDK for cloud-Week 7 &amp; 8 GSoC’21](https://medium.com/leopards-lab/making-a-sdk-for-cloud-week-7-8-gsoc21-8e00b2e1c6b9?source=rss-b559b68475f6------2)
+- [Making a Nodejs module and workspace management with lerna- Week 6 GSoC’21](https://medium.com/leopards-lab/making-a-nodejs-module-and-workspace-management-with-lerna-week-6-gsoc21-79323e39e454?source=rss-b559b68475f6------2)
+- [Nodecloud Digital Ocean Services and testing with Mocha and Chai- Week 4 &amp; 5 GSoC’21](https://medium.com/leopards-lab/nodecloud-digital-ocean-services-and-testing-with-mocha-and-chai-week-4-5-gsoc21-ddec8a85f244?source=rss-b559b68475f6------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
