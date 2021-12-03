@@ -31,7 +31,7 @@ Skills: NodeJs / REACT / JS / HTML / CSS/ Blockchain/ AWS /Web3
 <a href="https://instagram.com/mbcse50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mbcse50" height="30" width="40" /></a>
 <a href="https://hashnode.com/mbcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="mbcse" height="30" width="40" /></a>
 <a href="https://medium.com/@mbcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mbcse" height="30" width="40" /></a>
-<a href="/https://mbcse.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mbcse.medium.com/" height="30" width="40" /></a>
+<a href="/https://mbcse.medium.com/" target="blank">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
