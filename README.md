@@ -47,7 +47,7 @@ Skills: NodeJs / REACT / JS / HTML / CSS/ Blockchain/ AWS /Web3
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbcse&" alt="mbcse" /></p>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mbcse)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mbcse)   -->
 
-![GitHub metrics](https://metrics.lecoq.io/mbcse)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/mbcse)   -->
 
