@@ -4,7 +4,7 @@
 
 I am a hackathon geek and have participated in many hackathons while bagging prizes in most of them. I call myself Blockchain and Full Stack Developer with a generalist in tech. I am partime Blockchain Mentor and Speaker and have given a number of sessions under organizations like upskill India, Blockchain school, AICTE, Script Foundation, etc.
 
-Skills: NodeJs / REACT / JS / HTML / CSS/ Blockchain/ AWS /Web3
+Skills: NodeJs / Blockchain / JS / HTML / CSS/  / AWS / React / Web3
 
 - 🔭 I’m currently working on Blockchain 
 - 🌱 I’m currently learning Rust 
