@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Mohit Bhat
 #### I am a Blockcahin and Full Stack Developer
-![I am a Blockcahin and Full Stack Developer](https://drive.google.com/file/d/1ligAK1iBRPw17hFdM2m7h-wAsOX-Yiay/view?usp=sharing)
+![I am a Blockcahin and Full Stack Developer](https://github.com/mbcse/mbcse/blob/main/Copy%20of%20Blockchain%20%26%20Full%20Stack%20developer.png)
 
 I am a hackathon geek and have participated in many hackathons while bagging prizes in most of them. I call myself Blockchain and Full Stack Developer with a generalist in tech. I am partime Blockchain Mentor and Speaker and have given a number of sessions under organizations like upskill India, Blockchain school, AICTE, Script Foundation, etc.
 
