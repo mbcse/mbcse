@@ -2,7 +2,16 @@
 #### I am a Blockcahin and Full Stack Developer
 ![I am a Blockcahin and Full Stack Developer](https://github.com/mbcse/mbcse/blob/main/Copy%20of%20Blockchain%20%26%20Full%20Stack%20developer.png)
 
-I am a hackathon geek and have participated in many hackathons while bagging prizes in most of them. I call myself Blockchain and Full Stack Developer with a generalist in tech. I am partime Blockchain Mentor and Speaker and have given a number of sessions under organizations like upskill India, Blockchain school, AICTE, Script Foundation, etc.
+Mohit is a passionate software developer. He calls himself Blockchain and Full Stack Developer and a generalist in tech as he has tried to gather knowledge of all fields while mastering some.
+He till now have worked with multiple organisations and he is an open source lover. Some of his achievements are being part of programs like Google Summer of Code, Summer of Bitcoin, Ethereum India Fellowship, etc. He is also winner of 25+ National and International Hackathons. He is also a blockchain and full stack speaker and educator. He have mentored 5000 + students till now. 
+
+Blockchain Experience: He has worked on multiple blockchains like Ethereum, Polygon, Binance, Casper, Stellar, Digital Bits, IPFS, Polkadot, tezos, nervos, Near, etc. Have built multiple NFT marketplace's, defi tokens under his work which are live on mainnet and currently working on building layer 2 blockchain and Zero Knowledge proofs. 
+
+Full Stack Experience: He has knowledge of multiple tech stack like React, Node, Django,etc. He is currently working on mastering Rust .
+
+He is also a Hackathon geek and have participated in 40+ Hackathons, while bagging prizes in most of them. He is also a Blockchain speaker and have given many sessions under various organisations and initiatives like Upskill India, Blockchain school, script foundation and many more.
+
+Checkout my Linkedin to know more: https://www.linkedin.com/in/mbcse/
 
 Skills: NodeJs / Blockchain / JS / HTML / CSS/  / AWS / React / Web3
 
