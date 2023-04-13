@@ -3,7 +3,7 @@
 ![I am a Blockcahin and Full Stack Developer](https://github.com/mbcse/mbcse/blob/main/Copy%20of%20Blockchain%20%26%20Full%20Stack%20developer.png)
 
 Mohit is a passionate software developer. He calls himself Blockchain and Full Stack Developer and a generalist in tech as he has tried to gather knowledge of all fields while mastering some.
-He till now have worked with multiple organisations and he is an open source lover. Some of his achievements are being part of programs like Google Summer of Code, Summer of Bitcoin, Ethereum India Fellowship, etc. He is also winner of 25+ National and International Hackathons. He is also a blockchain and full stack speaker and educator. He have mentored 5000 + students till now. 
+He till now have worked with multiple organisations and he is an open source lover. Some of his achievements are being part of programs like Google Summer of Code, Summer of Bitcoin, Ethereum India Fellowship, etc. He is also winner of 25+ National and International Hackathons. He is also a blockchain and full stack speaker and educator. He has mentored 5000 + students till now. 
 
 Blockchain Experience: He has worked on multiple blockchains like Ethereum, Polygon, Binance, Casper, Stellar, Digital Bits, IPFS, Polkadot, tezos, nervos, Near, etc. Have built multiple NFT marketplace's, defi tokens under his work which are live on mainnet and currently working on building layer 2 blockchain and Zero Knowledge proofs. 
 
