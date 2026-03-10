@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name is Mohit Bhat
-#### I am a Blockcahin and Full Stack Developer
+#### I am a Blockchain and Full Stack Developer
 ![I am a Blockcahin and Full Stack Developer](https://github.com/mbcse/mbcse/blob/main/Copy%20of%20Blockchain%20%26%20Full%20Stack%20developer.png)
 
 Mohit is a passionate software developer with a strong focus on blockchain and full-stack development. He considers himself a generalist in tech and has gathered knowledge across various fields while mastering some. With years of experience in his field, Mohit has worked with several organizations and is an ardent supporter of open-source development. He is currently the FullStack Web3 Engineer at Fleek Network and In past, he was Lead Blockchain Engineer at Singularity Singapore. Mohit is also currently serving as a Project Admin and Mentor at ScoreLab Org in Google Summer of Code, showcasing his leadership skills and passion for helping others.
